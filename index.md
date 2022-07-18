@@ -1,3 +1,10 @@
+## GitHub Page, Jekyll로 만들기 1
+1. Github Repo를 생성한다. repo name : username.github.io
+2. [username.github.io] repository 선택 > Pages > Choose a theme. 클릭
+3. README.md 파일 작성 후 Commit changes
+4. 여기까지 진행하면, 20분 내 [https://i-sak.github.io] 활성
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/i-sak/i-sak.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
